@@ -146,20 +146,14 @@ Following steps show to get this project on to your machine and bring it up:
    [Click to Download and install Metamask on your browser](https://metamask.io/download/)
 
 
-2. Clone this repo :
-
-```
-git clone https://github.com/shubhamprajapati241/lendhub.git
-```
-
-3. Go to the root directory and install dependent node packages
+2. Go to the root directory and install dependent node packages
 
 ```
 cd lendhub
 npm install
 ```
 
-4. Compile, Test and Run the hardhat node
+3. Compile, Test and Run the hardhat node
 
 ```
  npx hardhat compile
@@ -167,24 +161,23 @@ npm install
  npx hardhat node
 ```
 
-5. Deploy on the Hardhat localhost
+4. Deploy on the Hardhat localhost
 
 ```
 npx hardhat run scripts/deploy.js --network localhost
 ```
 
-6. Add the localhost deploy addresses into ***address.js*** file
+5. Add the localhost deploy addresses into ***address.js*** file
 
 ![addresses](https://user-images.githubusercontent.com/61042463/226641194-637954ff-8230-4e41-82f0-3e42bb5dbdfe.png)
 
-7. Start the NextJs Node Server. Open http://localhost:3000 to view it in your browser.
+6. Start the NextJs Node Server. Open http://localhost:3000 to view it in your browser.
 
 ```
 npm run dev
 ```
-8. To run hardhat tests to verify the working of Dapp, run the script below
+7. To run hardhat tests to verify the working of Dapp, run the script below
 
 ```
 npx hardhat test
 ```
-
