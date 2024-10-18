@@ -181,3 +181,9 @@ npm run dev
 ```
 npx hardhat test
 ```
+
+8. DEPLOYMENT LINK 
+```
+https://peer2-peer-defi.vercel.app/
+```
+
