@@ -182,8 +182,5 @@ npm run dev
 npx hardhat test
 ```
 
-8. DEPLOYMENT LINK 
-```
-https://peer2-peer-defi.vercel.app/
-```
+##[DEPLOYMENT LINK](https://metamask.io/download/](https://peer2-peer-defi.vercel.app/)
 
