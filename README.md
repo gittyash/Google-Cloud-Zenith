@@ -51,5 +51,5 @@ This project is inspired by the Compound protocol, a money market protocol that 
 
 For questions or feedback, please reach out to:
 
-- **Name**: Priyaj Sony
-- **Email**: priyajsoni0.1@example.com
+- **Name**: Yash Saini
+- **Email**: yashsaini0.1@example.com
